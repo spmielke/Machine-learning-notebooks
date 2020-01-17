@@ -1,1 +1,1 @@
-[Logistic Regression (Unregularized) - I: Insurance Risk Classification](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/0526b408-a285-4b8a-9c2b-14fa9404115a/view?access_token=33cb6e14f5225e8e52317592a2c9fa434e7237d7bfe12ed68a8f7faf9c34b6b9)
+[Logistic Regression I: Insurance Risk Classification](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
